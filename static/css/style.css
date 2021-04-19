@@ -1,0 +1,28 @@
+h1 {
+   color: #d22e3a
+}
+
+.uno {
+   color: #d22e3a;
+   background-color: orange;
+}
+
+.duo {
+   color: #FFD700;
+   background-color: pink;
+}
+
+.tre {
+   color: #00CED1;
+   background-color: blue;
+}
+
+.qrt {
+   color: #00FF00;
+   background-color: green;
+}
+
+.cnq {
+   color: #000000;
+   background-color: gray;
+}
