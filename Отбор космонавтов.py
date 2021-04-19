@@ -29,7 +29,7 @@ def astronaut_selection():
                               </head>
                               <body>
                                 <h1 align="center"><font color="black">Анкета претендента</font></h1>
-                                <h2 align="center">На участие в миссии</h2>
+                                <h3 align="center">на участие в миссии</h2>
                                 <div>
                                     <form class="login_form" method="post">
                                         <input type="text" class="form-control" id="firstname" placeholder="Введите имя" name="firstname">
@@ -125,14 +125,14 @@ def astronaut_selection():
                                         <p></p>
                                         <form method="post" enctype="multipart/form-data">
                                        <div class="form-group">
-                                            <label for="photo">Выберите фотографию</label>
+                                            <label for="photo">Приложите фотографию</label>
                                             <input type="file" class="form-control-file" id="photo" name="file">
                                         </div>
                                         <p></p>
                                         <p></p>
                                         <div class="form-group form-check">
                                             <input type="checkbox" class="form-check-input" id="acceptRules" name="accept">
-                                            <label class="form-check-label" for="acceptRules">Готовы осться на Марсе?</label>
+                                            <label class="form-check-label" for="acceptRules">Готовы осться на Марcе?</label>
                                         </div>
                                         <p></p>
                                         <p></p>
